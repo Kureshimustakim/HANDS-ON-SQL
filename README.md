@@ -1,0 +1,2 @@
+# Learnbay-Internship 
+This repository showcases the practical SQL projects from my Learnbay internship. The hands-on assignments were instrumental in strengthening my database management and query writing skills, building a solid foundation for my Data Science journey.
